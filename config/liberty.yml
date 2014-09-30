@@ -16,7 +16,7 @@
 # Configuration for the Liberty container
 ---
 #repository_root: "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/"
-repository_root: "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/"
+repository_root: "https://profapps.prolifics.com/BldPck/"
 version: 8.5.+
 minify: false
 liberty_repository_properties:
